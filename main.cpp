@@ -2,10 +2,15 @@
 #pragma warning(disable : 6031)
 
 #include "draft.h"
+#include "month.h"
 
 int main()
 {
-	Draft_Practice();
+	// 选秀
+	// Draft_Practice();
+
+	// 获取月份英语
+	MonthInEnglish();
 
 	return 0;
 }

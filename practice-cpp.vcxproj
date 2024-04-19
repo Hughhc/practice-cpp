@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="draft.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="month.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="draft.h" />
+    <ClInclude Include="month.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
