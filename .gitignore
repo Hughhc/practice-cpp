@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio生成的文件和文件夹
+[Dd]ebug/
+.vs/
